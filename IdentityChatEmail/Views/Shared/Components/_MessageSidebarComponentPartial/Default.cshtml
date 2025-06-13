@@ -1,0 +1,25 @@
+﻿﻿<div class="email-left-box">
+    <a href="/Message/CreateMessage/" class="btn btn-primary btn-block">Create New Message</a>
+    <div class="mail-list mt-4">
+        <a href="/Message/Inbox/" class="list-group-item border-0 text-primary p-r-0">
+            <i class="fa fa-inbox font-18 align-middle mr-2"></i>
+            <b>Inbox Messages</b>
+            <span class="badge badge-primary badge-sm float-right m-t-5">@ViewBag.ReceiveMessage</span>
+        </a>
+        <a href="/Message/SendBox/" class="list-group-item border-0 p-r-0">
+            <i class="fa fa-paper-plane font-18 align-middle mr-2"></i>
+            Sent Messages
+            <span class="badge badge-primary badge-sm float-right m-t-5">@ViewBag.SendMessage</span>
+        </a>
+        <a href="/Profile/ProfileDetail/" class="list-group-item border-0 p-r-0">
+            <i class="fa fa-star-o font-18 align-middle mr-2"></i>
+            My Profile
+            <span class="badge badge-danger badge-sm float-right m-t-5"></span>
+        </a>
+
+        <a href="/Login/Logout" class="list-group-item border-0 p-r-0">
+            <i class="mdi mdi-file-document-box font-18 align-middle mr-2"></i>
+            Log Out
+        </a>
+    </div>
+</div>

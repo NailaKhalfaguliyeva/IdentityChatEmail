@@ -1,0 +1,29 @@
+﻿@model IdentityChatEmail.Entities.Message
+@{
+    Layout = null;
+}
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<h2>New Message Creation Page</h2>
+
+<div class="container">
+    <br /><br />
+    <form method="post">
+        <label>Recipient Email</label>
+        <input type="text" asp-for="ReceiverEmail" class="form-control" />
+        <br />
+        <label>Subject</label>
+        <input type="text" asp-for="Subject" class="form-control" />
+        <br />
+       
+        <label>Message Details</label>
+        <input type="text" asp-for="MessageDetail" class="form-control" />
+        <br />
+        <button class="btn btn-primary">Send Message</button>
+    </form>
+</div>
+
+
+
+
