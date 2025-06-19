@@ -1,6 +1,8 @@
 ﻿@model IdentityChatEmail.Entities.Message
 @{
-    Layout = null;
+    ViewData["Title"] = "CreateMessage";
+    Layout = "~/Views/Shared/_MessageLayout.cshtml";
+
 }
 
 <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
@@ -22,8 +24,23 @@
         <br />
         <button class="btn btn-primary">Send Message</button>
     </form>
-</div>
 
+</div>
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script>
+        @if (TempData["SuccessMessage"] != null)
+        {
+            <text>
+                        Swal.fire({
+                            icon: 'success',
+                                title: 'Successful operation',
+                            text: '@TempData["SuccessMessage"]'
+                        });
+            </text>
+        }
+    </script>
+}
 
 
 

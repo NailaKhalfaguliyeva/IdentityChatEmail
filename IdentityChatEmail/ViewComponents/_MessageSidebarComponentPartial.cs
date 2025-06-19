@@ -18,6 +18,12 @@ namespace IdentityChatEmail.ViewComponents
 
         public IViewComponentResult Invoke()
         {
+            var user = _userManager.FindByNameAsync(User.Identity.Name).Result;
+
+            ViewBag.ReceiveMessage = _emailContext.Messages.Count(x => x.ReceiverEmail == user.Email && x.IsRead == false);
+
+            ViewBag.SendMessage = _emailContext.Messages.Count(x => x.SenderEmail == user.Email);
+
             return View();
         }
     }

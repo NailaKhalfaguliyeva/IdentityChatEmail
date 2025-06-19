@@ -24,5 +24,8 @@
         @await Component.InvokeAsync("_MessageFooterComponentPartial")
     </div>
     @await Component.InvokeAsync("_MessageScriptComponentPartial")
+
+    @RenderSection("Scripts", required: false)
+
 </body>
 </html>
