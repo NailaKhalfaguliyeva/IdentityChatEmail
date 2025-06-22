@@ -3,42 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\user\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\user\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\shared\\_messagelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\shared\\_messagelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\shared\\components\\_messagesidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\shared\\components\\_messagesidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\shared\\components\\_messagescriptcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\shared\\components\\_messagescriptcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\shared\\components\\_messagepreloadercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\shared\\components\\_messagepreloadercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\shared\\components\\_messageheadcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\shared\\components\\_messageheadcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\shared\\components\\_messagefootercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\shared\\components\\_messagefootercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\register\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\register\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -47,20 +11,92 @@
       "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\profile\\profiledetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\message\\inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\message\\inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\message\\sendbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\message\\sendbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\user\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\user\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\message\\createmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\message\\createmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\message\\sendbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\message\\sendbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\models\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\models\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\models\\customidentityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\models\\customidentityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\login\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\login\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\shared\\_messagelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\shared\\_messagelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\shared\\components\\_messagefootercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\shared\\components\\_messagefootercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\shared\\components\\_messagepreloadercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\shared\\components\\_messagepreloadercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\shared\\components\\_messagescriptcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\shared\\components\\_messagescriptcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\shared\\components\\_messagesidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\shared\\components\\_messagesidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\message\\trashbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\message\\trashbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\message\\messagedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\message\\messagedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\message\\inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\message\\inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\viewcomponents\\_messagesidebarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,40 +119,8 @@
       "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\viewcomponents\\_messagefootercomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\models\\customidentityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\models\\customidentityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\models\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\models\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -127,16 +131,8 @@
       "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\context\\emailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\context\\emailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|c:\\users\\asus\\source\\repos\\identitychatemail\\identitychatemail\\views\\shared\\components\\_messageheadcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38D0CA6A-87A9-45B0-9190-5B6DCD82D72A}|IdentityChatEmail\\IdentityChatEmail.csproj|solutionrelative:identitychatemail\\views\\shared\\components\\_messageheadcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -146,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -158,356 +154,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "EmailContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Context\\EmailContext.cs",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Context\\EmailContext.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Context\\EmailContext.cs",
-              "RelativeToolTip": "IdentityChatEmail\\Context\\EmailContext.cs",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "IdentityChatEmail\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T11:50:50.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Register\\CreateUser.cshtml",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Register\\CreateUser.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Register\\CreateUser.cshtml",
-              "RelativeToolTip": "IdentityChatEmail\\Views\\Register\\CreateUser.cshtml",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAAEEAAACNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T07:06:16.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Models\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Models\\RegisterViewModel.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Models\\RegisterViewModel.cs",
-              "RelativeToolTip": "IdentityChatEmail\\Models\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T07:04:51.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "RegisterController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Controllers\\RegisterController.cs",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Controllers\\RegisterController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Controllers\\RegisterController.cs",
-              "RelativeToolTip": "IdentityChatEmail\\Controllers\\RegisterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T07:03:47.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Entities\\AppUser.cs",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Entities\\AppUser.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Entities\\AppUser.cs",
-              "RelativeToolTip": "IdentityChatEmail\\Entities\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T05:05:44.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "MessageController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Controllers\\MessageController.cs",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Controllers\\MessageController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Controllers\\MessageController.cs",
-              "RelativeToolTip": "IdentityChatEmail\\Controllers\\MessageController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T05:05:08.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "IdentityChatEmail\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T04:33:44.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "IdentityChatEmail\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T04:33:42.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Program.cs",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Program.cs",
-              "RelativeToolTip": "IdentityChatEmail\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T04:31:29.664Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\User\\CreateUser.cshtml",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\User\\CreateUser.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\User\\CreateUser.cshtml",
-              "RelativeToolTip": "IdentityChatEmail\\Views\\User\\CreateUser.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T04:00:56.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CreateUserViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Models\\CreateUserViewModel.cs",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Models\\CreateUserViewModel.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Models\\CreateUserViewModel.cs",
-              "RelativeToolTip": "IdentityChatEmail\\Models\\CreateUserViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T03:54:33.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Controllers\\UserController.cs",
-              "RelativeToolTip": "IdentityChatEmail\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T03:51:47.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "IdentityChatEmail\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T03:47:44.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Message.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Entities\\Message.cs",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Entities\\Message.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Entities\\Message.cs",
-              "RelativeToolTip": "IdentityChatEmail\\Entities\\Message.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T06:59:16.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_MessageLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\_MessageLayout.cshtml",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Shared\\_MessageLayout.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\_MessageLayout.cshtml",
-              "RelativeToolTip": "IdentityChatEmail\\Views\\Shared\\_MessageLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T06:57:47.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Models\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "IdentityChatEmail\\Models\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T06:28:55.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CustomIdentityValidator.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Models\\CustomIdentityValidator.cs",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Models\\CustomIdentityValidator.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Models\\CustomIdentityValidator.cs",
-              "RelativeToolTip": "IdentityChatEmail\\Models\\CustomIdentityValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T06:27:29.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Inbox.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Message\\Inbox.cshtml",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Message\\Inbox.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Message\\Inbox.cshtml",
-              "RelativeToolTip": "IdentityChatEmail\\Views\\Message\\Inbox.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T05:56:39.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_MessageSidebarComponentPartial.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\ViewComponents\\_MessageSidebarComponentPartial.cs",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\ViewComponents\\_MessageSidebarComponentPartial.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\ViewComponents\\_MessageSidebarComponentPartial.cs",
-              "RelativeToolTip": "IdentityChatEmail\\ViewComponents\\_MessageSidebarComponentPartial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T03:39:55.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T20:33:57.869Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "_MessageScriptComponentPartial.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\ViewComponents\\_MessageScriptComponentPartial.cs",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\ViewComponents\\_MessageScriptComponentPartial.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\ViewComponents\\_MessageScriptComponentPartial.cs",
-              "RelativeToolTip": "IdentityChatEmail\\ViewComponents\\_MessageScriptComponentPartial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T03:39:52.856Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_MessagePreloaderComponentPartial.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\ViewComponents\\_MessagePreloaderComponentPartial.cs",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\ViewComponents\\_MessagePreloaderComponentPartial.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\ViewComponents\\_MessagePreloaderComponentPartial.cs",
-              "RelativeToolTip": "IdentityChatEmail\\ViewComponents\\_MessagePreloaderComponentPartial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T03:39:51.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_MessageHeadComponentPartial.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\ViewComponents\\_MessageHeadComponentPartial.cs",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\ViewComponents\\_MessageHeadComponentPartial.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\ViewComponents\\_MessageHeadComponentPartial.cs",
-              "RelativeToolTip": "IdentityChatEmail\\ViewComponents\\_MessageHeadComponentPartial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T03:39:49.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_MessageFooterComponentPartial.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\ViewComponents\\_MessageFooterComponentPartial.cs",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\ViewComponents\\_MessageFooterComponentPartial.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\ViewComponents\\_MessageFooterComponentPartial.cs",
-              "RelativeToolTip": "IdentityChatEmail\\ViewComponents\\_MessageFooterComponentPartial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T03:39:47.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\Components\\_MessageSidebarComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Shared\\Components\\_MessageSidebarComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\Components\\_MessageSidebarComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "IdentityChatEmail\\Views\\Shared\\Components\\_MessageSidebarComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T03:35:23.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\Components\\_MessageScriptComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Shared\\Components\\_MessageScriptComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\Components\\_MessageScriptComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "IdentityChatEmail\\Views\\Shared\\Components\\_MessageScriptComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T03:35:20.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\Components\\_MessagePreloaderComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Shared\\Components\\_MessagePreloaderComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\Components\\_MessagePreloaderComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "IdentityChatEmail\\Views\\Shared\\Components\\_MessagePreloaderComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T03:35:15.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\Components\\_MessageHeadComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Shared\\Components\\_MessageHeadComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\Components\\_MessageHeadComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "IdentityChatEmail\\Views\\Shared\\Components\\_MessageHeadComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T03:35:10.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\Components\\_MessageFooterComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Shared\\Components\\_MessageFooterComponentPartial\\Default.cshtml",
@@ -515,86 +174,382 @@
               "RelativeToolTip": "IdentityChatEmail\\Views\\Shared\\Components\\_MessageFooterComponentPartial\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T03:35:04.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T04:23:17.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProfileDetail.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Profile\\ProfileDetail.cshtml",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Profile\\ProfileDetail.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Profile\\ProfileDetail.cshtml",
-              "RelativeToolTip": "IdentityChatEmail\\Views\\Profile\\ProfileDetail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "IdentityChatEmail\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T03:34:51.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T04:22:52.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserLogin.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Login\\UserLogin.cshtml",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Login\\UserLogin.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Login\\UserLogin.cshtml",
-              "RelativeToolTip": "IdentityChatEmail\\Views\\Login\\UserLogin.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "_MessageLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\_MessageLayout.cshtml",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Shared\\_MessageLayout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\_MessageLayout.cshtml",
+              "RelativeToolTip": "IdentityChatEmail\\Views\\Shared\\_MessageLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T03:19:27.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T04:22:44.78Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SendBox.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Message\\SendBox.cshtml",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Message\\SendBox.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Message\\SendBox.cshtml",
-              "RelativeToolTip": "IdentityChatEmail\\Views\\Message\\SendBox.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T03:19:21.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateMessage.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Message\\CreateMessage.cshtml",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Message\\CreateMessage.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Message\\CreateMessage.cshtml",
-              "RelativeToolTip": "IdentityChatEmail\\Views\\Message\\CreateMessage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T03:19:16.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "IdentityChatEmail\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "IdentityChatEmail\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "_MessageScriptComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\ViewComponents\\_MessageScriptComponentPartial.cs",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\ViewComponents\\_MessageScriptComponentPartial.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\ViewComponents\\_MessageScriptComponentPartial.cs",
+              "RelativeToolTip": "IdentityChatEmail\\ViewComponents\\_MessageScriptComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T02:44:22.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T04:20:04.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 26,
+              "Title": "_MessagePreloaderComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\ViewComponents\\_MessagePreloaderComponentPartial.cs",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\ViewComponents\\_MessagePreloaderComponentPartial.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\ViewComponents\\_MessagePreloaderComponentPartial.cs",
+              "RelativeToolTip": "IdentityChatEmail\\ViewComponents\\_MessagePreloaderComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:20:03.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_MessageHeadComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\ViewComponents\\_MessageHeadComponentPartial.cs",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\ViewComponents\\_MessageHeadComponentPartial.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\ViewComponents\\_MessageHeadComponentPartial.cs",
+              "RelativeToolTip": "IdentityChatEmail\\ViewComponents\\_MessageHeadComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:20:00.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Entities\\AppUser.cs",
+              "RelativeToolTip": "IdentityChatEmail\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:19:27.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProfileController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Controllers\\ProfileController.cs",
               "RelativeDocumentMoniker": "IdentityChatEmail\\Controllers\\ProfileController.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Controllers\\ProfileController.cs",
               "RelativeToolTip": "IdentityChatEmail\\Controllers\\ProfileController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T02:36:07.663Z",
+              "WhenOpened": "2025-06-19T03:54:28.93Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\Components\\_MessageHeadComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Shared\\Components\\_MessageHeadComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\Components\\_MessageHeadComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "IdentityChatEmail\\Views\\Shared\\Components\\_MessageHeadComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T04:14:53.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\Components\\_MessagePreloaderComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Shared\\Components\\_MessagePreloaderComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\Components\\_MessagePreloaderComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "IdentityChatEmail\\Views\\Shared\\Components\\_MessagePreloaderComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T04:14:51.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\Components\\_MessageScriptComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Shared\\Components\\_MessageScriptComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\Components\\_MessageScriptComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "IdentityChatEmail\\Views\\Shared\\Components\\_MessageScriptComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T04:14:47.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\Components\\_MessageSidebarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Shared\\Components\\_MessageSidebarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Shared\\Components\\_MessageSidebarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "IdentityChatEmail\\Views\\Shared\\Components\\_MessageSidebarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T04:10:15.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\User\\CreateUser.cshtml",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\User\\CreateUser.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\User\\CreateUser.cshtml",
+              "RelativeToolTip": "IdentityChatEmail\\Views\\User\\CreateUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T04:09:59.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Register\\CreateUser.cshtml",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Register\\CreateUser.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Register\\CreateUser.cshtml",
+              "RelativeToolTip": "IdentityChatEmail\\Views\\Register\\CreateUser.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T04:07:40.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfileDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Profile\\ProfileDetail.cshtml",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Profile\\ProfileDetail.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Profile\\ProfileDetail.cshtml",
+              "RelativeToolTip": "IdentityChatEmail\\Views\\Profile\\ProfileDetail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T03:58:05.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TrashBox.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Message\\TrashBox.cshtml",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Message\\TrashBox.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Message\\TrashBox.cshtml",
+              "RelativeToolTip": "IdentityChatEmail\\Views\\Message\\TrashBox.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T03:47:39.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MessageDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Message\\MessageDetail.cshtml",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Message\\MessageDetail.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Message\\MessageDetail.cshtml",
+              "RelativeToolTip": "IdentityChatEmail\\Views\\Message\\MessageDetail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T03:30:51.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Inbox.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Message\\Inbox.cshtml",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Message\\Inbox.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Message\\Inbox.cshtml",
+              "RelativeToolTip": "IdentityChatEmail\\Views\\Message\\Inbox.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T20:47:34.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SendBox.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Message\\SendBox.cshtml",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Message\\SendBox.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Message\\SendBox.cshtml",
+              "RelativeToolTip": "IdentityChatEmail\\Views\\Message\\SendBox.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwC8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T20:43:12.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Message\\CreateMessage.cshtml",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Message\\CreateMessage.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Message\\CreateMessage.cshtml",
+              "RelativeToolTip": "IdentityChatEmail\\Views\\Message\\CreateMessage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T20:42:07.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Login\\UserLogin.cshtml",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Views\\Login\\UserLogin.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Views\\Login\\UserLogin.cshtml",
+              "RelativeToolTip": "IdentityChatEmail\\Views\\Login\\UserLogin.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T20:25:52.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_MessageSidebarComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\ViewComponents\\_MessageSidebarComponentPartial.cs",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\ViewComponents\\_MessageSidebarComponentPartial.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\ViewComponents\\_MessageSidebarComponentPartial.cs",
+              "RelativeToolTip": "IdentityChatEmail\\ViewComponents\\_MessageSidebarComponentPartial.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:08:24.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_MessageFooterComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\ViewComponents\\_MessageFooterComponentPartial.cs",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\ViewComponents\\_MessageFooterComponentPartial.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\ViewComponents\\_MessageFooterComponentPartial.cs",
+              "RelativeToolTip": "IdentityChatEmail\\ViewComponents\\_MessageFooterComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:08:21.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "IdentityChatEmail\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:07:28.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "IdentityChatEmail\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:07:25.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomIdentityValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Models\\CustomIdentityValidator.cs",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Models\\CustomIdentityValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Models\\CustomIdentityValidator.cs",
+              "RelativeToolTip": "IdentityChatEmail\\Models\\CustomIdentityValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:07:20.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Models\\CreateUserViewModel.cs",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Models\\CreateUserViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Models\\CreateUserViewModel.cs",
+              "RelativeToolTip": "IdentityChatEmail\\Models\\CreateUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:07:16.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Entities\\Message.cs",
+              "RelativeToolTip": "IdentityChatEmail\\Entities\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:07:10.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Controllers\\UserController.cs",
+              "RelativeToolTip": "IdentityChatEmail\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:07:01.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "IdentityChatEmail\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:06:46.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "IdentityChatEmail\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAF8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:59:45.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "IdentityChatEmail\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IdentityChatEmail\\IdentityChatEmail\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "IdentityChatEmail\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:56:31.866Z"
             }
           ]
         }

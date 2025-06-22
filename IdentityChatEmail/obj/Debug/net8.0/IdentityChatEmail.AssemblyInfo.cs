@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IdentityChatEmail")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+023cdd4cb79aeaf5b34656b3ba26e4f5b441b62f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+980f8be5479ee842dd195b076d80bc774c355455")]
 [assembly: System.Reflection.AssemblyProductAttribute("IdentityChatEmail")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IdentityChatEmail")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
