@@ -1,6 +1,6 @@
 # 💌 IdentityChatEmail (.NET Core 8.0)
 
-**IdentityChatEmail** is an email messaging application developed under **M&Y Yazılım Eğitim Akademi Danışmanlık** (a software training and consultancy company) and guided by our esteemed instructor **Murat Yücedağ**, fully completing all cases; it is built on **ASP.NET Core 8.0** and integrated with the **Identity** system. 
+**IdentityChatEmail** is an email messaging application developed under **M&Y Yazılım Eğitim Akademi Danışmanlık** (a software training and consultancy company) and guided by our esteemed instructor **Murat Yucedag**, fully completing all cases; it is built on **ASP.NET Core 8.0** and integrated with the **Identity** system. 
 
 After registering and logging into the system, users can:
 
